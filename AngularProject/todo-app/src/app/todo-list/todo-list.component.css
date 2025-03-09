@@ -1,15 +1,5 @@
-input {
-    margin-right: 10px;
-  }
-  button {
-    padding: 8px 16px;
-  }
-  input.invalid {
-    border: 2px solid red;
-  }
-  
-  .error {
-    color: red;
-    font-size: 12px;
+.completed {
+    text-decoration: line-through;
+    color: gray;
   }
   
